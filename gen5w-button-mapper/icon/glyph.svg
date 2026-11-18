@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <!-- three car buttons, the middle one with a play mark cut out -->
-  <defs><mask id="m"><rect width="100" height="100" fill="#fff"/><path d="M44 39 L58 50 L44 61 Z" fill="#000"/></mask></defs>
-  <rect x="4" y="28" width="26" height="44" rx="7" fill="#000"/>
-  <rect x="37" y="28" width="26" height="44" rx="7" fill="#000" mask="url(#m)"/>
-  <rect x="70" y="28" width="26" height="44" rx="7" fill="#000"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><mask id="m"><rect width="100" height="100" fill="#fff"/><path fill="#000" d="M44 39 L58 50 L44 61 Z"/></mask></defs><rect width="26" height="44" x="4" y="28" fill="#000" rx="7"/><rect width="26" height="44" x="37" y="28" fill="#000" mask="url(#m)" rx="7"/><rect width="26" height="44" x="70" y="28" fill="#000" rx="7"/></svg>
